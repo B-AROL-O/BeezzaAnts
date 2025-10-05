@@ -42,6 +42,7 @@ Please see the [docs](docs/) folder. More specifically:
 
 - [BeezzaAnts - System Architecture](docs/beezzaants-system-architecture.md)
 - [BeezzaAnts - HOWTO Deploy the Software](docs/beezzaants-system-architecture.md)
+- [BeezzaAnts - Mechanical Drawings](docs/beezzaants-mechanical-drawings.md)
 
 ## Copyright and license
 
